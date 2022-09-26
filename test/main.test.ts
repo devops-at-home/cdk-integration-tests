@@ -1,14 +1,14 @@
 import { App } from 'aws-cdk-lib';
-import { Template } from 'aws-cdk-lib/assertions';
 import { StackFactory } from '../src/stack-factory';
 
-describe('Snapshot tests', () => {
+describe('Integration test snapshots', () => {
     const app = new App();
 
-    const { stacks } = new StackFactory(app);
+    new StackFactory(app);
 
-    stacks.forEach((stack) => {
-        const template = Template.fromStack(stack);
-        expect(template.toJSON()).toMatchSnapshot();
+    const { stacks } = app.synth();
+
+    test.each(stacks)(`$stackName`, (stack) => {
+        expect(stack.template).toMatchSnapshot();
     });
 });
