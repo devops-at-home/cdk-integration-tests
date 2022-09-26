@@ -18,6 +18,10 @@ const project = new awscdk.AwsCdkTypeScriptApp({
     githubOptions: {
         pullRequestLint: false,
     },
+    autoApproveUpgrades: true,
+    autoApproveOptions: {
+        allowedUsernames: ['devops-at-home'],
+    },
     license: 'MIT',
     // deps: [],                /* Runtime dependencies of this module. */
     // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
