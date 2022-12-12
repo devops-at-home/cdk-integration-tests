@@ -1387,10 +1387,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.138:
-  version "1.0.138"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.138.tgz#3e587ccb7b3c307904200e3e0f82351a573c3f49"
-  integrity sha512-efV/l7+DN+QhrkT/iZzV889t6zrwdG0x3Sn3Dit8gpTHLpvjhl4RHadikyggTwWx149qOvVfAOjqnPdAV/Ym/w==
+cdk-iot-core-certificates@^1.0.139:
+  version "1.0.139"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.139.tgz#765d00ca2f82fc1e885ee8d39d6d2a62a0f270f8"
+  integrity sha512-BfhueadSmIFtcPHNDzteCe9GEr/LaySnzJgdwJ4k+GH9GeKUQ1gs22qltfOn1eO0c11mlaUvsbk1h+AJOeRJ5w==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1559,9 +1559,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.1.186"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.186.tgz#c2f4f1811f5d5860ea52f4633fc050a844805a49"
-  integrity sha512-IyzwHg82MIVK1wz1jKUxuSSdWkaXi8EBQhbMgVvuz8234bgCoYw7YdLk761CyUbjQ1ZRb2dIgjGoRCP9DdUb6w==
+  version "10.1.187"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.187.tgz#f62a35826fe09c15b96d38e05672755a4ceb3c00"
+  integrity sha512-1Nam2kyu7RJfVVA3ECN6gAtF5ln+7nwkl0VNu4co2Jh7jfPc6Mh5T5O5Od1IniW1Z/sms08/blQxOEUclPV2cg==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
