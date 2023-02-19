@@ -31,7 +31,7 @@
     "@types/jest": "^29.4.0",
     "@types/node": "^14",
     "aws-cdk": "^2.43.1",
-    "cdk-iot-core-certificates": "^1.0.206",
+    "cdk-iot-core-certificates": "^1.0.207",
     "esbuild": "^0.17.8",
     "jest": "^29.4.3",
     "jest-junit": "^13",
