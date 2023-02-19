@@ -11,9 +11,9 @@
     "@jridgewell/trace-mapping" "^0.3.9"
 
 "@aws-cdk/asset-awscli-v1@^2.2.65":
-  version "2.2.71"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.71.tgz#f15126e3bd67c78963a0fe31dc376f0eb84155eb"
-  integrity sha512-hmWhD9A1w7FnF+m/bCdypqKjwGMD4CsrYaZuY6pOYtoNJaK5yNuV3qJqrHvfpEWjzpE5anA64mffrLb5M6YUNg==
+  version "2.2.72"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.72.tgz#06f50a190f698390dad0be9787b3d406564945b8"
+  integrity sha512-7Qo7fkvodB8TUncfYPH+XLVFybt7AWKzLg7HWLT/GBrv9mZ3Iwf9Zq1YNoVqHEaNnqd9rnTrWjoAoDIOB0pZeg==
 
 "@aws-cdk/asset-kubectl-v20@^2.1.1":
   version "2.1.1"
@@ -21,9 +21,9 @@
   integrity sha512-U1ntiX8XiMRRRH5J1IdC+1t5CE89015cwyt5U63Cpk0GnMlN5+h9WsWMlKlPXZR4rdq/m806JRlBMRpBUB2Dhw==
 
 "@aws-cdk/asset-node-proxy-agent-v5@^2.0.54":
-  version "2.0.60"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-node-proxy-agent-v5/-/asset-node-proxy-agent-v5-2.0.60.tgz#cb5b801f06fca1f495e4c239a6c6f07388096ebd"
-  integrity sha512-VNkihNmmktYsIFieRGV8NonHmtPhLuy38ZnTbB9m+4jBfHaL6s71dSl6uUyRRMovS6zkYnEOyFBzGOr72w+w2Q==
+  version "2.0.61"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-node-proxy-agent-v5/-/asset-node-proxy-agent-v5-2.0.61.tgz#023a631d2b441e0cf819388d8772cdb3bde1de9d"
+  integrity sha512-SZZk/NtuAGHnPZV1egzrBu90zNrwvERfAOB1P6WxLkK8vbbi7pyumBpUXQ5Gxz4WhYHrmixSO/i7eBUZ2FAM8Q==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.18.6":
   version "7.18.6"
@@ -1388,10 +1388,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.206:
-  version "1.0.206"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.206.tgz#664210c9264c8b3a33dfa3553bb79437f2808bf6"
-  integrity sha512-6RPZqFIWBAifPYdCZXCzP+gJhUcwqq23E0P7Etqbh79yXXMtRHf2GiBiQ9yi67Uw7U1nGEo10q2A9oq2rx8bzA==
+cdk-iot-core-certificates@^1.0.207:
+  version "1.0.207"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.207.tgz#a0704b780d8d81c31a472380e7d21faf9c201157"
+  integrity sha512-Js7si2DyRr/kg2K7KjEGK05Mm8hIR55tWhlaaj4rg4EDzCrLgrwblGcn52n5ypw840lbF4XWyx71h0OQxqN7gA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1560,9 +1560,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.1.254"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.254.tgz#4f235be6b43085c6d102cafb9b2f9740faf30f01"
-  integrity sha512-F1F6jyI0VjEQ7RWv8a9AzdHDRXPpg/VpPRqUbI8/JlGsphbTfnrtIOsj11XadZpMHBme6FXly0fGqIq84c5Xng==
+  version "10.1.255"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.255.tgz#940cfd731e9ab554bb7d314ce97466aaad80c1a3"
+  integrity sha512-m7ddP9mF92096r4/2oqUg8sUYNdt7x2tjRSltnTtgvqiasBr0gSjzLkHqlGR0IrnvQWemv1kA1GESWxYAK20vw==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
