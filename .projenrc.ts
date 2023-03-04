@@ -2,7 +2,7 @@ import { awscdk } from 'projen';
 const project = new awscdk.AwsCdkTypeScriptApp({
     authorName: 'DevOps@Home',
     authorUrl: 'https://devops-at-ho.me',
-    cdkVersion: '2.43.1',
+    cdkVersion: '2.67.0',
     defaultReleaseBranch: 'main',
     eslint: false,
     name: 'cdk-integration-tests',
