@@ -157,7 +157,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "384abdff46055d4968de368826ea7fff823c43af1fe94609e6c000367e69cdce.zip",
+          "S3Key": "f92c6785660329825bf3e98c1ba4ca5abdaa05e5c76079793d098ed5d6828f14.zip",
         },
         "Environment": {
           "Variables": {
