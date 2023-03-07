@@ -309,7 +309,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
     },
     "ThingWithCertparamStoreCertPem15876E53": {
       "Properties": {
-        "Name": "integrationTest/certPem",
+        "Name": "/integrationTest/certPem",
         "Type": "String",
         "Value": {
           "Fn::GetAtt": [
@@ -322,7 +322,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
     },
     "ThingWithCertparamStorePrivKey2E5E90A6": {
       "Properties": {
-        "Name": "integrationTest/privKey",
+        "Name": "/integrationTest/privKey",
         "Type": "String",
         "Value": {
           "Fn::GetAtt": [
