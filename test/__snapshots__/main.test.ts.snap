@@ -1,7 +1,25 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Integration test snapshots iot-core-certs 1`] = `
+exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
 {
+  "Outputs": {
+    "OutputCertId": {
+      "Value": {
+        "Fn::GetAtt": [
+          "ThingWithCertlambdaCustomResource28E12CE8",
+          "certId",
+        ],
+      },
+    },
+    "OutputThingArn": {
+      "Value": {
+        "Fn::GetAtt": [
+          "ThingWithCertlambdaCustomResource28E12CE8",
+          "thingArn",
+        ],
+      },
+    },
+  },
   "Parameters": {
     "BootstrapVersion": {
       "Default": "/cdk-bootstrap/hnb659fds/version",
@@ -211,7 +229,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
           },
           "S3Key": "53c95d71cfd280747d971a38505aea07f812fdba75874a090358a2fc4f58f79b.zip",
         },
-        "Description": "AWS CDK resource provider framework - onEvent (iot-core-certs/ThingWithCert/lambdaProvider)",
+        "Description": "AWS CDK resource provider framework - onEvent (IntegTest-IotCoreCerts/ThingWithCert/lambdaProvider)",
         "Environment": {
           "Variables": {
             "USER_ON_EVENT_FUNCTION_ARN": {
@@ -309,7 +327,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
     },
     "ThingWithCertparamStoreCertPem15876E53": {
       "Properties": {
-        "Name": "integrationTest/certPem",
+        "Name": "/devices/integrationTest/certPem",
         "Type": "String",
         "Value": {
           "Fn::GetAtt": [
@@ -322,7 +340,7 @@ exports[`Integration test snapshots iot-core-certs 1`] = `
     },
     "ThingWithCertparamStorePrivKey2E5E90A6": {
       "Properties": {
-        "Name": "integrationTest/privKey",
+        "Name": "/devices/integrationTest/privKey",
         "Type": "String",
         "Value": {
           "Fn::GetAtt": [

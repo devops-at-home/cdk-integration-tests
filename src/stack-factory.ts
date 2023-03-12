@@ -3,6 +3,6 @@ import { IotCoreCertificates } from './stacks/iot-core-certificates.stack';
 
 export class StackFactory {
     constructor(app: App, stackProps?: StackProps) {
-        new IotCoreCertificates(app, 'iot-core-certs', stackProps);
+        new IotCoreCertificates(app, 'IntegTest-IotCoreCerts', stackProps);
     }
 }
