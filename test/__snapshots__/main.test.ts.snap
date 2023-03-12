@@ -11,6 +11,22 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
         ],
       },
     },
+    "OutputCertPem": {
+      "Value": {
+        "Fn::GetAtt": [
+          "ThingWithCertlambdaCustomResource28E12CE8",
+          "certPem",
+        ],
+      },
+    },
+    "OutputPrivKey": {
+      "Value": {
+        "Fn::GetAtt": [
+          "ThingWithCertlambdaCustomResource28E12CE8",
+          "privKey",
+        ],
+      },
+    },
     "OutputThingArn": {
       "Value": {
         "Fn::GetAtt": [
@@ -175,7 +191,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "f92c6785660329825bf3e98c1ba4ca5abdaa05e5c76079793d098ed5d6828f14.zip",
+          "S3Key": "a01055077d68a4fece2a6b69d4487765db6e8774a986ac6db4c5bfa874de8dcd.zip",
         },
         "Environment": {
           "Variables": {
