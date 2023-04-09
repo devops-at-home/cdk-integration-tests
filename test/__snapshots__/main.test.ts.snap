@@ -54,7 +54,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "5fa1330271b8967d9254ba2d4a07144f8acefe8b77e6d6bba38261373a50d5f8.zip",
+          "S3Key": "f5b6a6d08a8206e67d0b54e2a29abd7e0472d835abc71037de3a93545b5edacc.zip",
         },
         "Handler": "index.handler",
         "Role": {
@@ -243,7 +243,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "903be65b9594a9f17d7120273620367e7830b6d087fc9591f31dc5a080049e46.zip",
+          "S3Key": "1eabd374284db340b74179e3429008132f5b6b0b7b28d472d852807d7f5f9746.zip",
         },
         "Description": "AWS CDK resource provider framework - onEvent (IntegTest-IotCoreCerts/ThingWithCert/lambdaProvider)",
         "Environment": {
