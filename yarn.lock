@@ -10,20 +10,20 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@aws-cdk/asset-awscli-v1@^2.2.165":
-  version "2.2.179"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.179.tgz#195abc4c0ac9f005eb04edc323be4608c62fab40"
-  integrity sha512-IG4iaeYcKhBD+pmltWn/LH48MDDJYdkyuyCSM5GftfL9gkpv2zzlJGyEyOG2RU0ScJ5RcwH+KkUvkrOwadsDBA==
+"@aws-cdk/asset-awscli-v1@^2.2.177":
+  version "2.2.180"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.180.tgz#d765969cd3bb0639b0e4ca59e1378f75dcb80647"
+  integrity sha512-FOUVMdp0Ux1NPXMhFVbCmutfGvOALgro1M5omhtHmQ+VExdT0u9p9HuA+ohYlIDqScELNWvu3SlS892iN6XRhg==
 
 "@aws-cdk/asset-kubectl-v20@^2.1.1":
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/asset-kubectl-v20/-/asset-kubectl-v20-2.1.1.tgz#d01c1efb867fb7f2cfd8c8b230b8eae16447e156"
   integrity sha512-U1ntiX8XiMRRRH5J1IdC+1t5CE89015cwyt5U63Cpk0GnMlN5+h9WsWMlKlPXZR4rdq/m806JRlBMRpBUB2Dhw==
 
-"@aws-cdk/asset-node-proxy-agent-v5@^2.0.139":
-  version "2.0.150"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-node-proxy-agent-v5/-/asset-node-proxy-agent-v5-2.0.150.tgz#324b257cdfc42854a550ed90ff90ed2d077423b8"
-  integrity sha512-xfLY3s5hi7wtpjUGGuI8Q9IPlIO3W957I+yekcHL1EOFFmPAHkkvC0DmQ1snDEqeqb5oekHZItkChf9uKPGihQ==
+"@aws-cdk/asset-node-proxy-agent-v5@^2.0.148":
+  version "2.0.151"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/asset-node-proxy-agent-v5/-/asset-node-proxy-agent-v5-2.0.151.tgz#fcd1783e2ee063a3b93a8120566b5a948374f943"
+  integrity sha512-X7CjyphxMuAY1uNO2SMnTtQWxhnLf06ZAR9R4Ynm+8BOvyZfzqCrsmkT6O4nGRlhu5fGlRbNV//tCwU9e39yPQ==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.18.6", "@babel/code-frame@^7.21.4":
   version "7.21.4"
@@ -1194,13 +1194,13 @@ astral-regex@^2.0.0:
   integrity sha512-Z7tMw1ytTXt5jqMcOP+OQteU1VuNK9Y02uuJtKQ1Sv69jXQKKg5cibLwGJow8yzZP+eAc18EmLGPal0bp36rvQ==
 
 aws-cdk-lib@^2.72.1:
-  version "2.79.1"
-  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.79.1.tgz#d7e9ba9cea7af0318a1a3cf54dec6e39d1bbdf8d"
-  integrity sha512-iOPT9hbpP7z9otAzAgSr3HksjZe/QQXdyE7P1A4EESAzmLktOGfzzHydJqU1wfE9BbgK4ioCS0dJ3EaCCtWGpg==
+  version "2.80.0"
+  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.80.0.tgz#1118860637d33fab8f646551c29a75728404b64e"
+  integrity sha512-PoqD3Yms5I0ajuTi071nTW/hpkH3XsdyZzn5gYsPv0qD7mqP3h6Qr+6RiGx+yQ1KcVFyxWdX15uK+DsC0KwvcQ==
   dependencies:
-    "@aws-cdk/asset-awscli-v1" "^2.2.165"
+    "@aws-cdk/asset-awscli-v1" "^2.2.177"
     "@aws-cdk/asset-kubectl-v20" "^2.1.1"
-    "@aws-cdk/asset-node-proxy-agent-v5" "^2.0.139"
+    "@aws-cdk/asset-node-proxy-agent-v5" "^2.0.148"
     "@balena/dockerignore" "^1.0.2"
     case "1.6.3"
     fs-extra "^11.1.1"
@@ -1208,14 +1208,14 @@ aws-cdk-lib@^2.72.1:
     jsonschema "^1.4.1"
     minimatch "^3.1.2"
     punycode "^2.3.0"
-    semver "^7.5.0"
+    semver "^7.5.1"
     table "^6.8.1"
     yaml "1.10.2"
 
 aws-cdk@^2.72.1:
-  version "2.79.1"
-  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.79.1.tgz#c8edd10b0c9eb2ad19ba849076bb36fdbdddcbcc"
-  integrity sha512-N6intzdRFqrHC+O3Apty34RiTev2+bzvRtUbehVd5IyAmTvLsgE/jlhPUIJV2POSAK+bKOV+ZWEp9qMOj1hq8A==
+  version "2.80.0"
+  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.80.0.tgz#fef040f2b01df6551fba828a9df350c4c792baba"
+  integrity sha512-SKMZ/sGlNmFV37Lk40HHe4QJ2hJZmD0PrkScBmkr33xzEqjyKhN3jIHC4PYqTUeUK/qYemq3Y5OpXKQuWTCoKA==
   optionalDependencies:
     fsevents "2.3.2"
 
@@ -1446,10 +1446,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.280:
-  version "1.0.280"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.280.tgz#58a55a5cf9ca4b249b643985cb79c9da15dcf5ac"
-  integrity sha512-XJZTz7hncOJXtSfJLnjA5YKFJU5KklixTsH0tt88hiaMFYKkNe6eYes4eXmZPCExZ+IWJt84yIPEfDF0lrpRbQ==
+cdk-iot-core-certificates@^1.0.281:
+  version "1.0.281"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.281.tgz#5d607a6eaba3b784b3d029ca6599a7bec4694c8e"
+  integrity sha512-SlpnGHw2hbQv7vy+vtSGhQBawlcR5yoDcavvm4C/Jjj4cnGABNyBJe9Wpz9OK6tC0oPILkuYTSunkPNikw6VQw==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1606,9 +1606,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.2.28"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.2.28.tgz#3195e7e363a09100b5407794ff167968436584b0"
-  integrity sha512-qP0ryyp1ZVM0sbLgnGwa4aEOsJYQ1ghK4WA3WkPyft9JsSfbU/Wf8fMujWZWl+6txnyYyuvXabsCxiscjTyzMQ==
+  version "10.2.29"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.2.29.tgz#fcfe31e460346ca4d3f73aea9f14b902f26b4e93"
+  integrity sha512-gsvKez1oWgUi+LJDEtmMrC9E1d0Kn0YXFcBJEYUzMznrzAUDWuaq0tG6PcmQ50+elH5RO3SMMLo4HzqLZ2XxFg==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
@@ -1730,9 +1730,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.400"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.400.tgz#bc39fd77c4280b8d9abfbd7bee17d7bf3d1ef35f"
-  integrity sha512-Lsvf7cvwbIxCfB8VqbnVtEsjGi3+48ejDiQZfWo5gkT+1vQ2DHQI5pl0nUvPD6z1IQk6JgFeMC5ZQJqVhalEHg==
+  version "1.4.402"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.402.tgz#9aa7bbb63081513127870af6d22f829344c5ba57"
+  integrity sha512-gWYvJSkohOiBE6ecVYXkrDgNaUjo47QEKK0kQzmWyhkH+yoYiG44bwuicTGNSIQRG3WDMsWVZJLRnJnLNkbWvA==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -3570,10 +3570,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.71.63:
-  version "0.71.63"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.71.63.tgz#74d3c724bb1d746fdc771c440d2c8aea7a6fedb7"
-  integrity sha512-nmOgun1C7gw7r6DBljW2SxSmD+J5GBhsFA+ENSV5QcpQbMcZkZK+3FIOoRUrFL7/bVZV+0Sc7MAa89k0gqVWjg==
+projen@^0.71.65:
+  version "0.71.65"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.71.65.tgz#9677b424957103f36387d7b199df9677846ba47c"
+  integrity sha512-u0+UM7bcwqqAOx6CU6V51mkN4mNaH3Sb5akWL/SsLBvS7VyOvDmEJ0um+0P6uoKXxAtl+yHgHjDctzWV1U4hoA==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -3834,7 +3834,7 @@ semver-utils@^1.1.4:
   resolved "https://registry.yarnpkg.com/semver-utils/-/semver-utils-1.1.4.tgz#cf0405e669a57488913909fc1c3f29bf2a4871e2"
   integrity sha512-EjnoLE5OGmDAVV/8YDoN5KiajNadjzIp9BAHOhYeQHt7j0UWxjmgsx4YD48wp4Ue1Qogq38F1GNUJNqF1kKKxA==
 
-semver@7.x, semver@^7.0.0, semver@^7.1.1, semver@^7.3.5, semver@^7.3.7, semver@^7.4.0, semver@^7.5.0, semver@^7.5.1:
+semver@7.x, semver@^7.0.0, semver@^7.1.1, semver@^7.3.5, semver@^7.3.7, semver@^7.4.0, semver@^7.5.1:
   version "7.5.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.1.tgz#c90c4d631cf74720e46b21c1d37ea07edfab91ec"
   integrity sha512-Wvss5ivl8TMRZXXESstBA4uR5iXgEN/VC5/sOcuXdVLzcdkz4HWetIoRfG5gb5X+ij/G9rw9YoGn3QoQ8OCSpw==
