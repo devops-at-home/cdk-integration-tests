@@ -1397,19 +1397,19 @@ camelcase@^7.0.1:
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
 caniuse-lite@^1.0.30001517:
-  version "1.0.30001521"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001521.tgz#e9930cf499f7c1e80334b6c1fbca52e00d889e56"
-  integrity sha512-fnx1grfpEOvDGH+V17eccmNjucGUnCbP6KL+l5KqBIerp26WK/+RQ7CIDE37KGJjaPyqWXXlFUyKiWmvdNNKmQ==
+  version "1.0.30001522"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001522.tgz#44b87a406c901269adcdb834713e23582dd71856"
+  integrity sha512-TKiyTVZxJGhsTszLuzb+6vUZSjVOAhClszBr2Ta2k9IwtNBT/4dzmL6aywt0HCgEZlmwJzXJd8yNiob6HgwTRg==
 
 case@1.6.3, case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.371:
-  version "1.0.371"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.371.tgz#bb0f860261cd91b5d853fd83f69128430dc1e7ee"
-  integrity sha512-reuvHiiLoUIfr1Mjm+WL4OelbrcZaL91xeSJUy6XPUmkM5+xUtSDEgdCD9/Xd11SOGaffKXWPFxZh/aR3732YA==
+cdk-iot-core-certificates@^1.0.372:
+  version "1.0.372"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.372.tgz#f2bb06d272ee94169a960fd6c4b1dffcc1a2d837"
+  integrity sha512-uSS4z4WxoM7gq+epNng59vLaE0JBc7Y1vLLoz6ey9hL/3/BH6nDC4IorLBSdBn5x9d1SeZKiix5MfJkyOqAevw==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -3487,10 +3487,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.72.16:
-  version "0.72.16"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.72.16.tgz#14da387badd0f7392c43300ab2eb473e377cd3f7"
-  integrity sha512-c8LhT3/96inICH6zpSbxGanNpHhC2r/tZ7H5h8WjYkSfxik27NYdmB6RhTPLKSFxc086uQyj/ybCOPIAlNyP/A==
+projen@^0.72.17:
+  version "0.72.17"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.72.17.tgz#9f916637b252e9c5863333b9785c1e58be216afa"
+  integrity sha512-BYBtefNoW0NPCsou/Ln6z0I6XlmNY40a/AUQLKIQchlhtDmqh3rr39HIBc4YIupw4Tz9eY9EeUsaVRSQnHiB5A==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
