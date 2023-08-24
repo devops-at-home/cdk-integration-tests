@@ -205,7 +205,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
             "Arn",
           ],
         },
-        "Runtime": "nodejs18.x",
+        "Runtime": "nodejs16.x",
         "Timeout": 10,
       },
       "Type": "AWS::Lambda::Function",
