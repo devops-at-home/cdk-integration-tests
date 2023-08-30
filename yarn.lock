@@ -1406,10 +1406,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.381:
-  version "1.0.381"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.381.tgz#ce72b9826a1dcb094bbaadbd5ea371ff8ecf2ab5"
-  integrity sha512-c5CKLBrEeP9gPUzv6nXkyjyyenlf+x64UGpLERy5P7TyrtjpdWIeb0d6ng+raBKVu4OqJmNdorV9g01Cc8hhng==
+cdk-iot-core-certificates@^1.0.382:
+  version "1.0.382"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.382.tgz#66e705c376edb64ac0b1627e65078fd238cad8cf"
+  integrity sha512-a1Qq1LR8r2+dDpmOZ2FSpKF+1UpkMF50eRsm2Oo9C/vBoq4Wr3iiORfOAGfmwosMcS9giOtR385V0F6sYJv0Vw==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1566,9 +1566,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.2.69"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.2.69.tgz#5bb06693b317140fe310797ffd52c0d6cc595913"
-  integrity sha512-0AiM/uQe5Uk6JVe/62oolmSN2MjbFQkOlYrM3fFGZLKuT+g7xlAI10EebFhyCcZwI2JAcWuWCmmCAyCothxjuw==
+  version "10.2.70"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.2.70.tgz#a7d414a717b64a5fab65ff68aaba2ddf73b522bf"
+  integrity sha512-z6zr1E8K/9tzJbCQzY0UGX0/oVKPFKu9C/mzEnghCG6TAJINnvlq0CMKm63XqqeMleadZYm5T3sZGJKcxJS/Pg==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
@@ -1685,9 +1685,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.504"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.504.tgz#975522945676cf2d55910988a169f07b83081488"
-  integrity sha512-cSMwIAd8yUh54VwitVRVvHK66QqHWE39C3DRj8SWiXitEpVSY3wNPD9y1pxQtLIi4w3UdzF9klLsmuPshz09DQ==
+  version "1.4.505"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.505.tgz#00571ade5975b58413f0f56a665b065bfc29cdfc"
+  integrity sha512-0A50eL5BCCKdxig2SsCXhpuztnB9PfUgRMojj5tMvt8O54lbwz3t6wNgnpiTRosw5QjlJB7ixhVyeg8daLQwSQ==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -2398,9 +2398,9 @@ istanbul-reports@^3.1.3:
     istanbul-lib-report "^3.0.0"
 
 jackspeak@^2.0.3:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/jackspeak/-/jackspeak-2.3.0.tgz#aa228a94de830f31d4e4f0184427ce91c4ff1493"
-  integrity sha512-uKmsITSsF4rUWQHzqaRUuyAir3fZfW3f202Ee34lz/gZCi970CPZwyQXLGNgWJvvZbvFyzeyGq0+4fcG/mBKZg==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/jackspeak/-/jackspeak-2.3.1.tgz#ce2effa4c458e053640e61938865a5b5fae98456"
+  integrity sha512-4iSY3Bh1Htv+kLhiiZunUhQ+OYXIn0ze3ulq8JeWrFKmhPAJSySV2+kdtRh2pGcCeF0s6oR8Oc+pYZynJj4t8A==
   dependencies:
     "@isaacs/cliui" "^8.0.2"
   optionalDependencies:
@@ -3503,10 +3503,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.72.28:
-  version "0.72.28"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.72.28.tgz#3b6cae61f5ca07217278f470b3eacaec49686321"
-  integrity sha512-olnefNj+UZvRzm+vfAHbMmRz/2/b0OQdqY5YoZ+3Tx7u1kR3ubLr+loouWhSY5VB6PUBGWz5MvBUHg5uF0phjQ==
+projen@^0.73.0:
+  version "0.73.0"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.73.0.tgz#8f07ce9f9138c5948403f2d9dbefebce1ae8bee7"
+  integrity sha512-VsFaL63uoKiGN3yg4OFLKU06lTdoYGWTDVWCJY00Addn0jCMnnkogRwd5YB/HMbx/4VBML9X3VpN5IvoEYyBSQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
