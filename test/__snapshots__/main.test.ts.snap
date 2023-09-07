@@ -54,7 +54,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "5fa1330271b8967d9254ba2d4a07144f8acefe8b77e6d6bba38261373a50d5f8.zip",
+          "S3Key": "1039a174afbf09cd27e3b215f53b9e80b1bd66df24547e5746f0e5bcb9204cf3.zip",
         },
         "Handler": "index.handler",
         "Role": {
@@ -63,7 +63,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
             "Arn",
           ],
         },
-        "Runtime": "nodejs14.x",
+        "Runtime": "nodejs18.x",
       },
       "Type": "AWS::Lambda::Function",
     },
@@ -205,7 +205,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
             "Arn",
           ],
         },
-        "Runtime": "nodejs14.x",
+        "Runtime": "nodejs16.x",
         "Timeout": 10,
       },
       "Type": "AWS::Lambda::Function",
@@ -243,7 +243,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "903be65b9594a9f17d7120273620367e7830b6d087fc9591f31dc5a080049e46.zip",
+          "S3Key": "f2d30cfc360482320a52a4fcde8a70f3569df79ab30be24650fda58eb60052cf.zip",
         },
         "Description": "AWS CDK resource provider framework - onEvent (IntegTest-IotCoreCerts/ThingWithCert/lambdaProvider)",
         "Environment": {
@@ -263,7 +263,7 @@ exports[`Integration test snapshots IntegTest-IotCoreCerts 1`] = `
             "Arn",
           ],
         },
-        "Runtime": "nodejs14.x",
+        "Runtime": "nodejs18.x",
         "Timeout": 900,
       },
       "Type": "AWS::Lambda::Function",
