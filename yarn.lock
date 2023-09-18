@@ -1406,10 +1406,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.399:
-  version "1.0.399"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.399.tgz#37a72fe616e6deb752a69d231b3e03597bf557d5"
-  integrity sha512-B+ceowJHWYVRqAxOZe7M9eDc1CaVotwoStVih3LM5D3IGnC+TeP0OOYwi3N/7dE26rXQClgt3cMASLO+6Uw5Vw==
+cdk-iot-core-certificates@^1.0.400:
+  version "1.0.400"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.400.tgz#a60c2ebbcb81bba731a704d0c2a92267faa9239e"
+  integrity sha512-quNt7P8I5G2bxMv4SIwR0ZC/aDphIOcUhs/O3Zpw94taMIQfy+l9uUPbv/U3VNqTNwsHrsow1xf/Yd9U5wvs0Q==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -3223,9 +3223,9 @@ npm-bundled@^3.0.0:
     npm-normalize-package-bin "^3.0.0"
 
 npm-check-updates@^16:
-  version "16.14.3"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-16.14.3.tgz#c2fdf1fe438a96e6258ceeb38f835024cf55d732"
-  integrity sha512-iviPM0LiTFGUtk+kMtcMVLNeGuSORThj9Cho7GV/Z2l5dMdXFrcgIarMSr6d6f1wYJJBIthuNdJWXZ4NH5VPEg==
+  version "16.14.4"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-16.14.4.tgz#561e97e92079ae4dbab9d9cbeb424d292ca01bae"
+  integrity sha512-PKg1wv3vno75/9qgRLqV2huBO7eukOlW+PmIGl7LPXjElfYTUTWUtaMOdOckImaSj4Uqe46W/zMbMFZQp5dHRQ==
   dependencies:
     chalk "^5.3.0"
     cli-table3 "^0.6.3"
@@ -3516,10 +3516,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.73.22:
-  version "0.73.22"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.73.22.tgz#535632fb9af03fb21c58920bcf0edcace649f6ad"
-  integrity sha512-OazEG+uJXsyodIECy90NWsIWiUQffAn7Q5f5TigIaztrLlVKMh3Cl17ObHz4CakIuI6gNnUHGvxRIXbpCjzV9A==
+projen@^0.73.23:
+  version "0.73.23"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.73.23.tgz#419516bcdc335dfd1f97978c29690c1e97c2c60a"
+  integrity sha512-6EADkVbNI0CnGiQ8LnIAsNnCkKU1NO7YmSR/v4Ih/qBOrUMHNTU/fCkqhSb2EcPpP/xapK9Xve4ViwhHqaro+g==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
