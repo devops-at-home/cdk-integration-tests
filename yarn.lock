@@ -1408,10 +1408,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.427:
-  version "1.0.427"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.427.tgz#519ca3e5433e49048fdbaddc251cdd9f8f181ab0"
-  integrity sha512-Z1xvxWhM53UsO1haf2kM4nsHmf75tBFkNXPEoxgPrjULJBizlmAJeOd2/iHjNEVBGv25GuhpRxDt4gqdmeimJw==
+cdk-iot-core-certificates@^1.0.428:
+  version "1.0.428"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.428.tgz#b0125b79ce8a73c7ad081917710b777bd085132a"
+  integrity sha512-KZa0G+MMZCN0pNIU3Ui5kI65RXfm6IHdpS/da7/Y2OeIUPuT3rBN8R8AIGWH+6zkE6eLDBYMYBAXbra6qO2CjA==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -3506,10 +3506,10 @@ progress@^2.0.3:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.74.12:
-  version "0.74.12"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.74.12.tgz#1a7e8c23c0875d2fb79904edf958c005594de3e8"
-  integrity sha512-byqKXt8r7K2WtsYmyE9C49Ud5OYNCFMafS4Ei88IyfzG1OfkjYUdvu5ToYjKR4WcIa4nlrDWwCjWpYPIGAjXrQ==
+projen@^0.74.17:
+  version "0.74.17"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.74.17.tgz#919bc36e5fafc62ba10009a056cf1c9a60c22000"
+  integrity sha512-5TWAuj9okHUiahp4ao9czf1scBZyT8qjDUfZbxb6hcTQmacSabq/SsF2SZrbM3r+OD162YVWizDoIoE15vMhgQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
