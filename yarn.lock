@@ -1101,10 +1101,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.468:
-  version "1.0.468"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.468.tgz#58c817ed8223dddcf23e23afac5c7c6c53c88263"
-  integrity sha512-eLhK7QlWVVwfji3gCgJ6kAwlWPUChKWJSJVgxNVWT1vGC5tkeDEuGYEHPcH5lStyHbK7FopzpQfiRwRSBTKMqw==
+cdk-iot-core-certificates@^1.0.469:
+  version "1.0.469"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.469.tgz#1c2b4bb028dada7d3e27e96af4b060b09147f311"
+  integrity sha512-bwePKcO6IxxclExorSjxpfCreZW6zcxwolX6S/9bSrBIuJprQzRRG0Hew+M0SL3Nr8CgAje4Cdp85+cSlIm00g==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1277,9 +1277,9 @@ diff@^4.0.1:
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
 electron-to-chromium@^1.4.535:
-  version "1.4.595"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.595.tgz#fa33309eb9aabb7426915f8e166ec60f664e9ad4"
-  integrity sha512-+ozvXuamBhDOKvMNUQvecxfbyICmIAwS4GpLmR0bsiSBlGnLaOcs2Cj7J8XSbW+YEaN3Xl3ffgpm+srTUWFwFQ==
+  version "1.4.596"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.596.tgz#6752d1aa795d942d49dfc5d3764d6ea283fab1d7"
+  integrity sha512-zW3zbZ40Icb2BCWjm47nxwcFGYlIgdXkAx85XDO7cyky9J4QQfq8t0W19/TLZqq3JPQXtlv8BPIGmfa9Jb4scg==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -2319,10 +2319,10 @@ pretty-format@^29.0.0, pretty-format@^29.7.0:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-projen@^0.77.3:
-  version "0.77.3"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.77.3.tgz#355356b288c8ef7ddb4984b8fad27c48a26b6ca6"
-  integrity sha512-v+4PQj3HS2TfQFgwGU/dh2oVsKW/7fFc3y6H6sjiKFHngNZCKRcBqBp7s8k/YdK6PVUaLnQ+adQ3+c99IItpig==
+projen@^0.77.4:
+  version "0.77.4"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.77.4.tgz#d05393f49c326b00f42fc3814120fcd6f5fc0881"
+  integrity sha512-mErPkhiIweZ1GBfr8syClijfqNmPtAu1skOwsrm49lmyEIA8esqQCguzKV1/ytyv1N+4apfOUmkUW/+5dBTbPA==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
