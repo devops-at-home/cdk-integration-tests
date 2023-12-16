@@ -1101,10 +1101,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.483:
-  version "1.0.483"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.483.tgz#c8e65a97d58414ffb3e7ebd58dec7e45ebbf0997"
-  integrity sha512-8F7SyrdWd0jMfasuEkdecAqyGnm8Piim2nyn7AKo+eyaCCUY2AMQMjb/Cozctd3WT524nB/e2tk0yuU5uP4UdA==
+cdk-iot-core-certificates@^1.0.484:
+  version "1.0.484"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.484.tgz#697990b35bd7da3c4407d02824d5238fd8905543"
+  integrity sha512-3z2r7gybL6Sr1R68HOdYiV4qwshENckUM6h3fg4DYz9iJKRPaCSZfdQWgPv3dYhq7bRE+P5hA0hmNYz1e0OT4g==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1277,9 +1277,9 @@ diff@^4.0.1:
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
 electron-to-chromium@^1.4.601:
-  version "1.4.613"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.613.tgz#529e4fc65576ecfd055d7d4619fade4fac446af2"
-  integrity sha512-r4x5+FowKG6q+/Wj0W9nidx7QO31BJwmR2uEo+Qh3YLGQ8SbBAFuDFpTxzly/I2gsbrFwBuIjrMp423L3O5U3w==
+  version "1.4.614"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.614.tgz#2fe789d61fa09cb875569f37c309d0c2701f91c0"
+  integrity sha512-X4ze/9Sc3QWs6h92yerwqv7aB/uU8vCjZcrMjA8N9R1pjMFRe44dLsck5FzLilOYvcXuDn93B+bpGYyufc70gQ==
 
 emittery@^0.13.1:
   version "0.13.1"
