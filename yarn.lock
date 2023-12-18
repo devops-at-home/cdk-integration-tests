@@ -823,9 +823,9 @@
     pretty-format "^29.0.0"
 
 "@types/node@*":
-  version "20.10.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.4.tgz#b246fd84d55d5b1b71bf51f964bd514409347198"
-  integrity sha512-D08YG6rr8X90YB56tSIuBaddy/UXAA9RKJoFvrsnogAum/0pmjkgi4+2nx96A330FmioegBWmEYQ+syqCFaveg==
+  version "20.10.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.5.tgz#47ad460b514096b7ed63a1dae26fad0914ed3ab2"
+  integrity sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==
   dependencies:
     undici-types "~5.26.4"
 
@@ -1101,10 +1101,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.485:
-  version "1.0.485"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.485.tgz#d7f18d3c68e24dc38925c09f1c33ee9d558e5b05"
-  integrity sha512-IMQxNckOjhj2HhPXaRr34xb4uz3/3wS/6tCoC/7DReS4wNi2fIv54jGALPhD1T3FEopLWMLVHUdcQ5ULjoymMQ==
+cdk-iot-core-certificates@^1.0.486:
+  version "1.0.486"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.486.tgz#6a80f5abc7c5c956336ef91d34185438fac4e031"
+  integrity sha512-GISEejPNFVHJMIc6uN2ceVLPusdJAV5GdqjVt+eZEMZ57BCOhG+vnhEPiH8YRcfaNdj1SyntBIlD8c2aQNs75Q==
 
 chalk@^2.4.2:
   version "2.4.2"
