@@ -1106,10 +1106,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.494:
-  version "1.0.494"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.494.tgz#292708e28112ec2041265510c9e93db332f71121"
-  integrity sha512-6OPSyHVKCslGxg3w59tZcrDAsRMcMlZPZzBxaA7gESxv2vdJkNfkuAivdnIOLuNWj7PbpTZZFCaH7YF1r6ZcEg==
+cdk-iot-core-certificates@^1.0.495:
+  version "1.0.495"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.495.tgz#e6478aac7e88486091a8df7e7abf30e6aeb80a25"
+  integrity sha512-EBDBkCPOSef0tJEWlGtVnf9R3dNXbjVEYo1pBBRV5QlkuS4SnQG8YTBizsKwxo1nTApA4WvcB0Boh7anTcd6gg==
 
 chalk@^2.4.2:
   version "2.4.2"
