@@ -5,6 +5,8 @@ junit.xml
 /coverage/
 permissions-backup.acl
 /.mergify.yml
+/.prettierignore
+/.prettierrc.json
 /test/
 /tsconfig.dev.json
 /src/
@@ -21,3 +23,4 @@ tsconfig.tsbuildinfo
 !/assets/
 cdk.out/
 .cdk.staging/
+/.gitattributes
