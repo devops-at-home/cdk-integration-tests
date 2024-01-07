@@ -1106,10 +1106,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.500:
-  version "1.0.500"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.500.tgz#4fe31a78b4a74e66eb7fbc7c1ada6687c1bcc097"
-  integrity sha512-hz/rqDpw43QMmcwwOPd50gRItLf/hfdOnwQ5UAqA8K83rYrGyhCI8K2eAaLvK1LnlYb/laJACg7hwkCp8U7StQ==
+cdk-iot-core-certificates@^1.0.501:
+  version "1.0.501"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.501.tgz#8d337b3f36bbde0881c0c24e9307ab93b698b774"
+  integrity sha512-mDhMw5iFFPE1WIxu1wPjiywgQLMi99/uWVJz7+dBbtbxR67tz34J9elkP35VUsc5B3G782v0lgENTiFNKnXmEA==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -2325,10 +2325,10 @@ pretty-format@^29.0.0, pretty-format@^29.7.0:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-projen@^0.78.10:
-  version "0.78.10"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.10.tgz#326f7b7dc6f87c4b50955ee264120959e4a9794c"
-  integrity sha512-Sm6AkrlggH5dCjAyGCbGJCFlm1MLjHS1pOVFklSx0PakFXJxCRg6cp8foBE4fwR0Y59kAXe3yhAolaESwd4AXw==
+projen@^0.78.11:
+  version "0.78.11"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.11.tgz#e54566f72e9d18fdc4002d2704555fdb100b84d4"
+  integrity sha512-SfAMFJcXNWwFbt/HYS/bnYiBQK2nS33bp0tWV3j3Eb6mTiiwyEAjMF5l1rp9Fi+zZ1rV6ai2el2kaVQmcl3K3A==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
