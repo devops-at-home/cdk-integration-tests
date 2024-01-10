@@ -828,16 +828,16 @@
     pretty-format "^29.0.0"
 
 "@types/node@*":
-  version "20.10.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.7.tgz#40fe8faf25418a75de9fe68a8775546732a3a901"
-  integrity sha512-fRbIKb8C/Y2lXxB5eVMj4IU7xpdox0Lh8bUPEdtLysaylsml1hOOx1+STloRs/B9nf7C6kPRmmg/V7aQW7usNg==
+  version "20.10.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.8.tgz#f1e223cbde9e25696661d167a5b93a9b2a5d57c7"
+  integrity sha512-f8nQs3cLxbAFc00vEU59yf9UyGUftkPaLGfvbVOIDdx2i1b8epBqj2aNGyP19fiyXWvlmZ7qC1XLjAzw/OKIeA==
   dependencies:
     undici-types "~5.26.4"
 
 "@types/node@^18":
-  version "18.19.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.5.tgz#4b23a9ab8ab7dafebb57bcbaf5c3d8d04f9d8cac"
-  integrity sha512-22MG6T02Hos2JWfa1o5jsIByn+bc5iOt1IS4xyg6OG68Bu+wMonVZzdrgCw693++rpLE9RUT/Bx15BeDzO0j+g==
+  version "18.19.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.6.tgz#537beece2c8ad4d9abdaa3b0f428e601eb57dac8"
+  integrity sha512-X36s5CXMrrJOs2lQCdDF68apW4Rfx9ixYMawlepwmE4Anezv/AV2LSpKD1Ub8DAc+urp5bk0BGZ6NtmBitfnsg==
   dependencies:
     undici-types "~5.26.4"
 
@@ -1106,10 +1106,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.503:
-  version "1.0.503"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.503.tgz#a3bb50b8a4545de4afe9122b673c28e38ee457d0"
-  integrity sha512-6RlTUUryoYTL52s2Vadw0uVFpSpr8Hdv5AvENCRfeiqvyUdI9CbGsORqr/VK9SXB9au0tyWMVHG2Bq64Q01low==
+cdk-iot-core-certificates@^1.0.504:
+  version "1.0.504"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.504.tgz#ebac06f46b45d44fb2be54277ff4488873889294"
+  integrity sha512-o/uY4G3e6PMeSRVwbMUE0+VMOXAdI1V5c81cWW7+MXJHbkX385Ou5BdZLRWQlL+N6qz7azxK9Or9YIM2aCndmg==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1282,9 +1282,9 @@ diff@^4.0.1:
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
 electron-to-chromium@^1.4.601:
-  version "1.4.624"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.624.tgz#ff40ac0afeaeda0c2c7b8cfc19d93c49adb1245b"
-  integrity sha512-w9niWuheXjz23vezH3w90n9KKcHe0UkhTfJ+rXJkuGGogHyQbQ7KS1x0a8ER4LbI3ljFS/gqxKh1TidNXDMHOg==
+  version "1.4.626"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.626.tgz#c20e1706354a31721b65e81496800534dd04b222"
+  integrity sha512-f7/be56VjRRQk+Ric6PmIrEtPcIqsn3tElyAu9Sh6egha2VLJ82qwkcOdcnT06W+Pb6RUulV1ckzrGbKzVcTHg==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -2325,10 +2325,10 @@ pretty-format@^29.0.0, pretty-format@^29.7.0:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-projen@^0.78.11:
-  version "0.78.11"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.11.tgz#e54566f72e9d18fdc4002d2704555fdb100b84d4"
-  integrity sha512-SfAMFJcXNWwFbt/HYS/bnYiBQK2nS33bp0tWV3j3Eb6mTiiwyEAjMF5l1rp9Fi+zZ1rV6ai2el2kaVQmcl3K3A==
+projen@^0.78.13:
+  version "0.78.13"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.13.tgz#5c6693ababa4f2e7d93759c722a35d41c9c2e691"
+  integrity sha512-ihL1lcfmi7M0EA7qgdXGja2SLLc6vtsQ1Wd2RqqxOuFnchw9/kZubdrxy38J8iI36AEwb0Qucb1uLTuwFhl7Qw==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
