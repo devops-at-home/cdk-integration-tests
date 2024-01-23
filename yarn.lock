@@ -1106,10 +1106,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.514:
-  version "1.0.514"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.514.tgz#85f2b4ef8fcddf8d7b75a59dadca6dcd36092854"
-  integrity sha512-E4+9RVcYkoyp/Y4XXcD5dlywiLQh60fjKK5vjVwoEEliPf88olyHIehp/JlB/mnb2ESeoH8GiMBpb44muM4BIg==
+cdk-iot-core-certificates@^1.0.515:
+  version "1.0.515"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.515.tgz#78cc55b94362e32e719e52fbff1b04fbbf6abf22"
+  integrity sha512-3kqR9uOVsbtLAPssDxocWXwMhhCGKgLRWFuLO923cWCVej+vczKwiPQWz/KXh5foPhZdHMkeNqQ2+23h4RULxQ==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1282,9 +1282,9 @@ diff@^4.0.1:
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
 electron-to-chromium@^1.4.601:
-  version "1.4.640"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.640.tgz#76290a36fa4b5f1f4cadaf1fc582478ebb3ac246"
-  integrity sha512-z/6oZ/Muqk4BaE7P69bXhUhpJbUM9ZJeka43ZwxsDshKtePns4mhBlh8bU5+yrnOnz3fhG82XLzGUXazOmsWnA==
+  version "1.4.642"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.642.tgz#eb380fa8b58e515c641d642ba452fa2c453c2e4f"
+  integrity sha512-M4+u22ZJGpk4RY7tne6W+APkZhnnhmAH48FNl8iEFK2lEgob+U5rUQsIqQhvAwCXYpfd3H20pHK/ENsCvwTbsA==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -2608,10 +2608,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-ts-jest@^29.1.1:
-  version "29.1.1"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-29.1.1.tgz#f58fe62c63caf7bfcc5cc6472082f79180f0815b"
-  integrity sha512-D6xjnnbP17cC85nliwGiL+tpoKN0StpgE0TeOjXQTU6MVCfsB4v7aW05CgQ/1OywGb0x/oy9hHFnN+sczTiRaA==
+ts-jest@^29.1.2:
+  version "29.1.2"
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-29.1.2.tgz#7613d8c81c43c8cb312c6904027257e814c40e09"
+  integrity sha512-br6GJoH/WUX4pu7FbZXuWGKGNDuU7b8Uj77g/Sp7puZV6EXzuByl6JrECvm0MzVzSTkSHWTihsXt+5XYER5b+g==
   dependencies:
     bs-logger "0.x"
     fast-json-stable-stringify "2.x"
