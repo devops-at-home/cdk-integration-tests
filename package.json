@@ -28,7 +28,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/jest": "^29.5.11",
+    "@types/jest": "^29.5.12",
     "@types/node": "^18",
     "aws-cdk": "^2.94.0",
     "cdk-iot-core-certificates": "^1.0.524",
