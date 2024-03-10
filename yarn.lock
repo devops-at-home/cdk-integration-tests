@@ -940,9 +940,9 @@ astral-regex@^2.0.0:
   integrity sha512-Z7tMw1ytTXt5jqMcOP+OQteU1VuNK9Y02uuJtKQ1Sv69jXQKKg5cibLwGJow8yzZP+eAc18EmLGPal0bp36rvQ==
 
 aws-cdk-lib@^2.94.0:
-  version "2.131.0"
-  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.131.0.tgz#6e336e9a3e77b07052d28c017ea020f5c9948341"
-  integrity sha512-9XLgiTgY+q0S3K93VPeJO0chIN8BZwZ3aSrILvF868Dz+0NTNrD2m5M0xGK5Rw0uoJS+N+DvGaz/2hLAiVqcBw==
+  version "2.132.0"
+  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.132.0.tgz#7b91d3e44237b64073bf8bec73a6c2ad833dd980"
+  integrity sha512-auztTTYy8j62MmRZNdM7Vd8eQ5eP3xLMhrrILhDZf3DiSDD0lyYL0hv98VD4XPkWGMQ8yOmo5nZ3s/zD7cnKlw==
   dependencies:
     "@aws-cdk/asset-awscli-v1" "^2.2.202"
     "@aws-cdk/asset-kubectl-v20" "^2.1.2"
@@ -960,9 +960,9 @@ aws-cdk-lib@^2.94.0:
     yaml "1.10.2"
 
 aws-cdk@^2.94.0:
-  version "2.131.0"
-  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.131.0.tgz#db8d99170e9aa2c389a1cf5954042d87d1c96ba0"
-  integrity sha512-ji+MwGFGC88HE/EqV6/VARBp5mu3nXIDa/GYwtGycJqu6WqXhNZXWeDH0JsWaY6+BSUdpY6pr6KWpV+MDyVkDg==
+  version "2.132.0"
+  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.132.0.tgz#4b39e05fcb1a35351bd43f3ea6e9ad127e4e9f90"
+  integrity sha512-C2j9iQqpl21YGuip02tIAAkgkDZNDDWeEoWfPcdXCJlQ9DVpYTJG24QxtY0rWflJ7Xkn+iAozdjlCrXSxYeAfA==
   optionalDependencies:
     fsevents "2.3.2"
 
@@ -1107,10 +1107,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.555:
-  version "1.0.555"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.555.tgz#4c9e3ba21351042de7c59b9f3b95dc69b52123c6"
-  integrity sha512-Z/tdXos6noQkGLj9KcAdufDXRNbx8/f2Bq/PKqbJvQssy1TS/BMdv2xxaXMwsp98Zlw53s1X/MkHQOMoO0z4GQ==
+cdk-iot-core-certificates@^1.0.556:
+  version "1.0.556"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.556.tgz#180584dfb7b92b41d400ef419b801afb1d02d60f"
+  integrity sha512-Oqc5Gp06t0QJ43VaI1SEJR/msfYPF89qK8U7+iKGieJN5p87CXtAsRByuQsy8FiMWnO0NCSGz3okmFGKsKefjg==
 
 chalk@^2.4.2:
   version "2.4.2"
