@@ -742,9 +742,9 @@
     "@sinonjs/commons" "^3.0.0"
 
 "@tsconfig/node10@^1.0.7":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.9.tgz#df4907fc07a886922637b15e02d4cebc4c0021b2"
-  integrity sha512-jNsYVVxU8v5g43Erja32laIDHXeoNvFEpX33OK4d6hljo3jDhCBDhx5dhCCTMWUojscpAagGiRkBKxpdl9fxqA==
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.10.tgz#b7ebd3adfa7750628d100594f6726b054d2c33b2"
+  integrity sha512-PiaIWIoPvO6qm6t114ropMCagj6YAF24j9OkCA2mJDXFnlionEwhsBCJ8yek4aib575BI3OkART/90WsgHgLWw==
 
 "@tsconfig/node12@^1.0.7":
   version "1.0.11"
@@ -1108,10 +1108,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.568:
-  version "1.0.568"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.568.tgz#963837cfd43dd0865a69750babff34b3fbe6caca"
-  integrity sha512-8Ta+J4fzn7GiX4JpadGOXiPComLmB+H9GKkyv8ajC66zMzvWeKdwWAuhQZwPiBK9swGFB36NI9C9R2lws7I5Mg==
+cdk-iot-core-certificates@^1.0.569:
+  version "1.0.569"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.569.tgz#0e78130e436d46c91d1ec5c8ef555c9c55e186b7"
+  integrity sha512-VYLPthPhWDlaTbKIPkB77wauJdD2mh/yTAiIsT13D54Z15peJzgxK/AlwzdWEn3ahoApDTL9ADe3clsTeL+4Ng==
 
 chalk@^2.4.2:
   version "2.4.2"
