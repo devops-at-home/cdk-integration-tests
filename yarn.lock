@@ -941,9 +941,9 @@ astral-regex@^2.0.0:
   integrity sha512-Z7tMw1ytTXt5jqMcOP+OQteU1VuNK9Y02uuJtKQ1Sv69jXQKKg5cibLwGJow8yzZP+eAc18EmLGPal0bp36rvQ==
 
 aws-cdk-lib@^2.94.0:
-  version "2.139.0"
-  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.139.0.tgz#bee393c979d74cf58c087850ce896df145b04776"
-  integrity sha512-G9yoc+VFwF10kpgf4omtrAVmUNPeAP708oF5fc7XlRTzoTXMmAdUJW9cRGOMtAkFY83SxiJP0wm8n5Z9tjAdUA==
+  version "2.139.1"
+  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.139.1.tgz#806674aaa2649b9d94d0cb5a2abc6ab33fc17ca2"
+  integrity sha512-Nn2VUpVY1zh5ipV3QEyAIZ9lSXF1p7mnB1mqEffWxYnrX6TUQs/eJY7IrqAEnCaVFAhJpGJzTw/wRXTtBjWObg==
   dependencies:
     "@aws-cdk/asset-awscli-v1" "^2.2.202"
     "@aws-cdk/asset-kubectl-v20" "^2.1.2"
@@ -961,9 +961,9 @@ aws-cdk-lib@^2.94.0:
     yaml "1.10.2"
 
 aws-cdk@^2.94.0:
-  version "2.139.0"
-  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.139.0.tgz#439e20bd08fba9fe4ee627a85641f28f219e3330"
-  integrity sha512-MjMsySQbhR5yTWCphnuVQuS15UdGMV6v4XIM+C8SN7/eUOfv7BFr7QgYMUm5WXCG/f66RnY0zjJbOLRxvcjCrQ==
+  version "2.139.1"
+  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.139.1.tgz#aaf061ab83492a368859fc06d7276cd7ab82f8f6"
+  integrity sha512-EKnhoF02puYbZFKmj3oZrzOKIi3nplH6pOfg0h0ICUBBg5wY45C8nDqTUm34YGcgQS42mLywnPn4BW9HO7aKWw==
   optionalDependencies:
     fsevents "2.3.2"
 
@@ -1108,10 +1108,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-iot-core-certificates@^1.0.601:
-  version "1.0.601"
-  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.601.tgz#ee0ae2d5e2618649dbd66e6804e79f7093ef62c3"
-  integrity sha512-lD18v21o4Qe6ke7EePxOeZw/5SVGf071584npjLPkL2gGO6s5QxspHXy4UtbEL9F7wvY4YwdUTA2J/O42H7e0w==
+cdk-iot-core-certificates@^1.0.602:
+  version "1.0.602"
+  resolved "https://registry.yarnpkg.com/cdk-iot-core-certificates/-/cdk-iot-core-certificates-1.0.602.tgz#848301aa5abf4bd81e4ec0e02823c093df5cc093"
+  integrity sha512-L+ZRS0MYFa+PlAVhdsY0YAfrRmagKX4oaLgDaAbcKM2jo/yTDG3Z7bRchr8R8Ouu26B1oLdMCs8/NoqnMF15sw==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -1284,9 +1284,9 @@ diff@^4.0.1:
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.751"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.751.tgz#b5b19742a435c589de02f60c16618150498bbd59"
-  integrity sha512-2DEPi++qa89SMGRhufWTiLmzqyuGmNF3SK4+PQetW1JKiZdEpF4XQonJXJCzyuYSA6mauiMhbyVhqYAP45Hvfw==
+  version "1.4.752"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.752.tgz#99227455547c8254488e3dab7d316c34a2c067b8"
+  integrity sha512-P3QJreYI/AUTcfBVrC4zy9KvnZWekViThgQMX/VpJ+IsOBbcX5JFpORM4qWapwWQ+agb2nYAOyn/4PMXOk0m2Q==
 
 emittery@^0.13.1:
   version "0.13.1"
